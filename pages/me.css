@@ -1,0 +1,13 @@
+.basic {
+    text-align: center;
+}
+
+.basic-wrap {
+    clear: none;
+    float: none;
+}
+
+.image {
+    width: 230px;
+    height: 300px;
+}
